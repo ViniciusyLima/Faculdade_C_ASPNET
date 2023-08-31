@@ -9,3 +9,13 @@ C:\Users\autologon\Desktop\gab\aula04exer01\aula04exer01\obj\Debug\aula04exer01.
 C:\Users\autologon\Desktop\gab\aula04exer01\aula04exer01\obj\Debug\aula04exer01.csproj.CoreCompileInputs.cache
 C:\Users\autologon\Desktop\gab\aula04exer01\aula04exer01\obj\Debug\aula04exer01.exe
 C:\Users\autologon\Desktop\gab\aula04exer01\aula04exer01\obj\Debug\aula04exer01.pdb
+C:\Users\Vini\Desktop\3º SEMESTRE\Tópicos Especiais em Desenvolvimento de Sistemas\Github\VisualCode\aula04exer01\aula04exer01\bin\Debug\aula04exer01.exe.config
+C:\Users\Vini\Desktop\3º SEMESTRE\Tópicos Especiais em Desenvolvimento de Sistemas\Github\VisualCode\aula04exer01\aula04exer01\bin\Debug\aula04exer01.exe
+C:\Users\Vini\Desktop\3º SEMESTRE\Tópicos Especiais em Desenvolvimento de Sistemas\Github\VisualCode\aula04exer01\aula04exer01\bin\Debug\aula04exer01.pdb
+C:\Users\Vini\Desktop\3º SEMESTRE\Tópicos Especiais em Desenvolvimento de Sistemas\Github\VisualCode\aula04exer01\aula04exer01\obj\Debug\aula04exer01.csproj.AssemblyReference.cache
+C:\Users\Vini\Desktop\3º SEMESTRE\Tópicos Especiais em Desenvolvimento de Sistemas\Github\VisualCode\aula04exer01\aula04exer01\obj\Debug\aula04exer01.Form1.resources
+C:\Users\Vini\Desktop\3º SEMESTRE\Tópicos Especiais em Desenvolvimento de Sistemas\Github\VisualCode\aula04exer01\aula04exer01\obj\Debug\aula04exer01.Properties.Resources.resources
+C:\Users\Vini\Desktop\3º SEMESTRE\Tópicos Especiais em Desenvolvimento de Sistemas\Github\VisualCode\aula04exer01\aula04exer01\obj\Debug\aula04exer01.csproj.GenerateResource.cache
+C:\Users\Vini\Desktop\3º SEMESTRE\Tópicos Especiais em Desenvolvimento de Sistemas\Github\VisualCode\aula04exer01\aula04exer01\obj\Debug\aula04exer01.csproj.CoreCompileInputs.cache
+C:\Users\Vini\Desktop\3º SEMESTRE\Tópicos Especiais em Desenvolvimento de Sistemas\Github\VisualCode\aula04exer01\aula04exer01\obj\Debug\aula04exer01.exe
+C:\Users\Vini\Desktop\3º SEMESTRE\Tópicos Especiais em Desenvolvimento de Sistemas\Github\VisualCode\aula04exer01\aula04exer01\obj\Debug\aula04exer01.pdb
