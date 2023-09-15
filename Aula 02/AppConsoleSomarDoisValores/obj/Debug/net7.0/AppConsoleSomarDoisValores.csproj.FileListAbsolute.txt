@@ -1,0 +1,28 @@
+C:\Users\mfple\OneDrive\Escritorio\A01\Aula 02 - TE - 2023\AppConsoleSomarDoisValores\bin\Debug\net7.0\AppConsoleSomarDoisValores.exe
+C:\Users\mfple\OneDrive\Escritorio\A01\Aula 02 - TE - 2023\AppConsoleSomarDoisValores\bin\Debug\net7.0\AppConsoleSomarDoisValores.deps.json
+C:\Users\mfple\OneDrive\Escritorio\A01\Aula 02 - TE - 2023\AppConsoleSomarDoisValores\bin\Debug\net7.0\AppConsoleSomarDoisValores.runtimeconfig.json
+C:\Users\mfple\OneDrive\Escritorio\A01\Aula 02 - TE - 2023\AppConsoleSomarDoisValores\bin\Debug\net7.0\AppConsoleSomarDoisValores.dll
+C:\Users\mfple\OneDrive\Escritorio\A01\Aula 02 - TE - 2023\AppConsoleSomarDoisValores\bin\Debug\net7.0\AppConsoleSomarDoisValores.pdb
+C:\Users\mfple\OneDrive\Escritorio\A01\Aula 02 - TE - 2023\AppConsoleSomarDoisValores\obj\Debug\net7.0\AppConsoleSomarDoisValores.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mfple\OneDrive\Escritorio\A01\Aula 02 - TE - 2023\AppConsoleSomarDoisValores\obj\Debug\net7.0\AppConsoleSomarDoisValores.AssemblyInfoInputs.cache
+C:\Users\mfple\OneDrive\Escritorio\A01\Aula 02 - TE - 2023\AppConsoleSomarDoisValores\obj\Debug\net7.0\AppConsoleSomarDoisValores.AssemblyInfo.cs
+C:\Users\mfple\OneDrive\Escritorio\A01\Aula 02 - TE - 2023\AppConsoleSomarDoisValores\obj\Debug\net7.0\AppConsoleSomarDoisValores.csproj.CoreCompileInputs.cache
+C:\Users\mfple\OneDrive\Escritorio\A01\Aula 02 - TE - 2023\AppConsoleSomarDoisValores\obj\Debug\net7.0\AppConsoleSomarDoisValores.dll
+C:\Users\mfple\OneDrive\Escritorio\A01\Aula 02 - TE - 2023\AppConsoleSomarDoisValores\obj\Debug\net7.0\refint\AppConsoleSomarDoisValores.dll
+C:\Users\mfple\OneDrive\Escritorio\A01\Aula 02 - TE - 2023\AppConsoleSomarDoisValores\obj\Debug\net7.0\AppConsoleSomarDoisValores.pdb
+C:\Users\mfple\OneDrive\Escritorio\A01\Aula 02 - TE - 2023\AppConsoleSomarDoisValores\obj\Debug\net7.0\AppConsoleSomarDoisValores.genruntimeconfig.cache
+C:\Users\mfple\OneDrive\Escritorio\A01\Aula 02 - TE - 2023\AppConsoleSomarDoisValores\obj\Debug\net7.0\ref\AppConsoleSomarDoisValores.dll
+C:\Users\Vini\Desktop\3º SEMESTRE\Tópicos Especiais em Desenvolvimento de Sistemas\Aula 02\AppConsoleSomarDoisValores\bin\Debug\net7.0\AppConsoleSomarDoisValores.exe
+C:\Users\Vini\Desktop\3º SEMESTRE\Tópicos Especiais em Desenvolvimento de Sistemas\Aula 02\AppConsoleSomarDoisValores\bin\Debug\net7.0\AppConsoleSomarDoisValores.deps.json
+C:\Users\Vini\Desktop\3º SEMESTRE\Tópicos Especiais em Desenvolvimento de Sistemas\Aula 02\AppConsoleSomarDoisValores\bin\Debug\net7.0\AppConsoleSomarDoisValores.runtimeconfig.json
+C:\Users\Vini\Desktop\3º SEMESTRE\Tópicos Especiais em Desenvolvimento de Sistemas\Aula 02\AppConsoleSomarDoisValores\bin\Debug\net7.0\AppConsoleSomarDoisValores.dll
+C:\Users\Vini\Desktop\3º SEMESTRE\Tópicos Especiais em Desenvolvimento de Sistemas\Aula 02\AppConsoleSomarDoisValores\bin\Debug\net7.0\AppConsoleSomarDoisValores.pdb
+C:\Users\Vini\Desktop\3º SEMESTRE\Tópicos Especiais em Desenvolvimento de Sistemas\Aula 02\AppConsoleSomarDoisValores\obj\Debug\net7.0\AppConsoleSomarDoisValores.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Vini\Desktop\3º SEMESTRE\Tópicos Especiais em Desenvolvimento de Sistemas\Aula 02\AppConsoleSomarDoisValores\obj\Debug\net7.0\AppConsoleSomarDoisValores.AssemblyInfoInputs.cache
+C:\Users\Vini\Desktop\3º SEMESTRE\Tópicos Especiais em Desenvolvimento de Sistemas\Aula 02\AppConsoleSomarDoisValores\obj\Debug\net7.0\AppConsoleSomarDoisValores.AssemblyInfo.cs
+C:\Users\Vini\Desktop\3º SEMESTRE\Tópicos Especiais em Desenvolvimento de Sistemas\Aula 02\AppConsoleSomarDoisValores\obj\Debug\net7.0\AppConsoleSomarDoisValores.csproj.CoreCompileInputs.cache
+C:\Users\Vini\Desktop\3º SEMESTRE\Tópicos Especiais em Desenvolvimento de Sistemas\Aula 02\AppConsoleSomarDoisValores\obj\Debug\net7.0\AppConsoleSomarDoisValores.dll
+C:\Users\Vini\Desktop\3º SEMESTRE\Tópicos Especiais em Desenvolvimento de Sistemas\Aula 02\AppConsoleSomarDoisValores\obj\Debug\net7.0\refint\AppConsoleSomarDoisValores.dll
+C:\Users\Vini\Desktop\3º SEMESTRE\Tópicos Especiais em Desenvolvimento de Sistemas\Aula 02\AppConsoleSomarDoisValores\obj\Debug\net7.0\AppConsoleSomarDoisValores.pdb
+C:\Users\Vini\Desktop\3º SEMESTRE\Tópicos Especiais em Desenvolvimento de Sistemas\Aula 02\AppConsoleSomarDoisValores\obj\Debug\net7.0\AppConsoleSomarDoisValores.genruntimeconfig.cache
+C:\Users\Vini\Desktop\3º SEMESTRE\Tópicos Especiais em Desenvolvimento de Sistemas\Aula 02\AppConsoleSomarDoisValores\obj\Debug\net7.0\ref\AppConsoleSomarDoisValores.dll

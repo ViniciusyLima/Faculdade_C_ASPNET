@@ -1,0 +1,33 @@
+C:\Users\autologon\Desktop\Aula2\aula03\aula03\bin\Debug\net7.0-windows\aula03.exe
+C:\Users\autologon\Desktop\Aula2\aula03\aula03\bin\Debug\net7.0-windows\aula03.deps.json
+C:\Users\autologon\Desktop\Aula2\aula03\aula03\bin\Debug\net7.0-windows\aula03.runtimeconfig.json
+C:\Users\autologon\Desktop\Aula2\aula03\aula03\bin\Debug\net7.0-windows\aula03.dll
+C:\Users\autologon\Desktop\Aula2\aula03\aula03\bin\Debug\net7.0-windows\aula03.pdb
+C:\Users\autologon\Desktop\Aula2\aula03\aula03\obj\Debug\net7.0-windows\aula03.csproj.AssemblyReference.cache
+C:\Users\autologon\Desktop\Aula2\aula03\aula03\obj\Debug\net7.0-windows\aula03.Form1.resources
+C:\Users\autologon\Desktop\Aula2\aula03\aula03\obj\Debug\net7.0-windows\aula03.csproj.GenerateResource.cache
+C:\Users\autologon\Desktop\Aula2\aula03\aula03\obj\Debug\net7.0-windows\aula03.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\autologon\Desktop\Aula2\aula03\aula03\obj\Debug\net7.0-windows\aula03.AssemblyInfoInputs.cache
+C:\Users\autologon\Desktop\Aula2\aula03\aula03\obj\Debug\net7.0-windows\aula03.AssemblyInfo.cs
+C:\Users\autologon\Desktop\Aula2\aula03\aula03\obj\Debug\net7.0-windows\aula03.csproj.CoreCompileInputs.cache
+C:\Users\autologon\Desktop\Aula2\aula03\aula03\obj\Debug\net7.0-windows\aula03.dll
+C:\Users\autologon\Desktop\Aula2\aula03\aula03\obj\Debug\net7.0-windows\refint\aula03.dll
+C:\Users\autologon\Desktop\Aula2\aula03\aula03\obj\Debug\net7.0-windows\aula03.pdb
+C:\Users\autologon\Desktop\Aula2\aula03\aula03\obj\Debug\net7.0-windows\aula03.genruntimeconfig.cache
+C:\Users\autologon\Desktop\Aula2\aula03\aula03\obj\Debug\net7.0-windows\ref\aula03.dll
+C:\Users\Vini\Desktop\3º SEMESTRE\Tópicos Especiais em Desenvolvimento de Sistemas\Aula 03\aula03\aula03\bin\Debug\net7.0-windows\aula03.exe
+C:\Users\Vini\Desktop\3º SEMESTRE\Tópicos Especiais em Desenvolvimento de Sistemas\Aula 03\aula03\aula03\bin\Debug\net7.0-windows\aula03.deps.json
+C:\Users\Vini\Desktop\3º SEMESTRE\Tópicos Especiais em Desenvolvimento de Sistemas\Aula 03\aula03\aula03\bin\Debug\net7.0-windows\aula03.runtimeconfig.json
+C:\Users\Vini\Desktop\3º SEMESTRE\Tópicos Especiais em Desenvolvimento de Sistemas\Aula 03\aula03\aula03\bin\Debug\net7.0-windows\aula03.dll
+C:\Users\Vini\Desktop\3º SEMESTRE\Tópicos Especiais em Desenvolvimento de Sistemas\Aula 03\aula03\aula03\bin\Debug\net7.0-windows\aula03.pdb
+C:\Users\Vini\Desktop\3º SEMESTRE\Tópicos Especiais em Desenvolvimento de Sistemas\Aula 03\aula03\aula03\obj\Debug\net7.0-windows\aula03.Form1.resources
+C:\Users\Vini\Desktop\3º SEMESTRE\Tópicos Especiais em Desenvolvimento de Sistemas\Aula 03\aula03\aula03\obj\Debug\net7.0-windows\aula03.csproj.GenerateResource.cache
+C:\Users\Vini\Desktop\3º SEMESTRE\Tópicos Especiais em Desenvolvimento de Sistemas\Aula 03\aula03\aula03\obj\Debug\net7.0-windows\aula03.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Vini\Desktop\3º SEMESTRE\Tópicos Especiais em Desenvolvimento de Sistemas\Aula 03\aula03\aula03\obj\Debug\net7.0-windows\aula03.AssemblyInfoInputs.cache
+C:\Users\Vini\Desktop\3º SEMESTRE\Tópicos Especiais em Desenvolvimento de Sistemas\Aula 03\aula03\aula03\obj\Debug\net7.0-windows\aula03.AssemblyInfo.cs
+C:\Users\Vini\Desktop\3º SEMESTRE\Tópicos Especiais em Desenvolvimento de Sistemas\Aula 03\aula03\aula03\obj\Debug\net7.0-windows\aula03.csproj.CoreCompileInputs.cache
+C:\Users\Vini\Desktop\3º SEMESTRE\Tópicos Especiais em Desenvolvimento de Sistemas\Aula 03\aula03\aula03\obj\Debug\net7.0-windows\aula03.dll
+C:\Users\Vini\Desktop\3º SEMESTRE\Tópicos Especiais em Desenvolvimento de Sistemas\Aula 03\aula03\aula03\obj\Debug\net7.0-windows\refint\aula03.dll
+C:\Users\Vini\Desktop\3º SEMESTRE\Tópicos Especiais em Desenvolvimento de Sistemas\Aula 03\aula03\aula03\obj\Debug\net7.0-windows\aula03.pdb
+C:\Users\Vini\Desktop\3º SEMESTRE\Tópicos Especiais em Desenvolvimento de Sistemas\Aula 03\aula03\aula03\obj\Debug\net7.0-windows\aula03.genruntimeconfig.cache
+C:\Users\Vini\Desktop\3º SEMESTRE\Tópicos Especiais em Desenvolvimento de Sistemas\Aula 03\aula03\aula03\obj\Debug\net7.0-windows\ref\aula03.dll

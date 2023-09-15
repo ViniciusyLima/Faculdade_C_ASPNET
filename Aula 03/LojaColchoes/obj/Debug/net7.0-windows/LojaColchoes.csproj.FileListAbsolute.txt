@@ -1,0 +1,37 @@
+C:\Users\autologon\source\repos\LojaColchoes\bin\Debug\net7.0-windows\LojaColchoes.exe
+C:\Users\autologon\source\repos\LojaColchoes\bin\Debug\net7.0-windows\LojaColchoes.deps.json
+C:\Users\autologon\source\repos\LojaColchoes\bin\Debug\net7.0-windows\LojaColchoes.runtimeconfig.json
+C:\Users\autologon\source\repos\LojaColchoes\bin\Debug\net7.0-windows\LojaColchoes.dll
+C:\Users\autologon\source\repos\LojaColchoes\bin\Debug\net7.0-windows\LojaColchoes.pdb
+C:\Users\autologon\source\repos\LojaColchoes\obj\Debug\net7.0-windows\LojaColchoes.csproj.AssemblyReference.cache
+C:\Users\autologon\source\repos\LojaColchoes\obj\Debug\net7.0-windows\LojaColchoes.Form1.resources
+C:\Users\autologon\source\repos\LojaColchoes\obj\Debug\net7.0-windows\LojaColchoes.csproj.GenerateResource.cache
+C:\Users\autologon\source\repos\LojaColchoes\obj\Debug\net7.0-windows\LojaColchoes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\autologon\source\repos\LojaColchoes\obj\Debug\net7.0-windows\LojaColchoes.AssemblyInfoInputs.cache
+C:\Users\autologon\source\repos\LojaColchoes\obj\Debug\net7.0-windows\LojaColchoes.AssemblyInfo.cs
+C:\Users\autologon\source\repos\LojaColchoes\obj\Debug\net7.0-windows\LojaColchoes.csproj.CoreCompileInputs.cache
+C:\Users\autologon\source\repos\LojaColchoes\obj\Debug\net7.0-windows\LojaColchoes.dll
+C:\Users\autologon\source\repos\LojaColchoes\obj\Debug\net7.0-windows\refint\LojaColchoes.dll
+C:\Users\autologon\source\repos\LojaColchoes\obj\Debug\net7.0-windows\LojaColchoes.pdb
+C:\Users\autologon\source\repos\LojaColchoes\obj\Debug\net7.0-windows\LojaColchoes.genruntimeconfig.cache
+C:\Users\autologon\source\repos\LojaColchoes\obj\Debug\net7.0-windows\ref\LojaColchoes.dll
+C:\Users\autologon\source\repos\LojaColchoes\obj\Debug\net7.0-windows\LojaColchoes.Properties.Resources.resources
+C:\Users\autologon\source\repos\LojaColchoes\obj\Debug\net7.0-windows\LojaColchoes.Sobre.resources
+C:\D\Aulas20232\TE\Aula 03 - TE - 2023\LojaColchoes\bin\Debug\net7.0-windows\LojaColchoes.exe
+C:\D\Aulas20232\TE\Aula 03 - TE - 2023\LojaColchoes\bin\Debug\net7.0-windows\LojaColchoes.deps.json
+C:\D\Aulas20232\TE\Aula 03 - TE - 2023\LojaColchoes\bin\Debug\net7.0-windows\LojaColchoes.runtimeconfig.json
+C:\D\Aulas20232\TE\Aula 03 - TE - 2023\LojaColchoes\bin\Debug\net7.0-windows\LojaColchoes.dll
+C:\D\Aulas20232\TE\Aula 03 - TE - 2023\LojaColchoes\bin\Debug\net7.0-windows\LojaColchoes.pdb
+C:\D\Aulas20232\TE\Aula 03 - TE - 2023\LojaColchoes\obj\Debug\net7.0-windows\LojaColchoes.Form1.resources
+C:\D\Aulas20232\TE\Aula 03 - TE - 2023\LojaColchoes\obj\Debug\net7.0-windows\LojaColchoes.Properties.Resources.resources
+C:\D\Aulas20232\TE\Aula 03 - TE - 2023\LojaColchoes\obj\Debug\net7.0-windows\LojaColchoes.Sobre.resources
+C:\D\Aulas20232\TE\Aula 03 - TE - 2023\LojaColchoes\obj\Debug\net7.0-windows\LojaColchoes.csproj.GenerateResource.cache
+C:\D\Aulas20232\TE\Aula 03 - TE - 2023\LojaColchoes\obj\Debug\net7.0-windows\LojaColchoes.GeneratedMSBuildEditorConfig.editorconfig
+C:\D\Aulas20232\TE\Aula 03 - TE - 2023\LojaColchoes\obj\Debug\net7.0-windows\LojaColchoes.AssemblyInfoInputs.cache
+C:\D\Aulas20232\TE\Aula 03 - TE - 2023\LojaColchoes\obj\Debug\net7.0-windows\LojaColchoes.AssemblyInfo.cs
+C:\D\Aulas20232\TE\Aula 03 - TE - 2023\LojaColchoes\obj\Debug\net7.0-windows\LojaColchoes.csproj.CoreCompileInputs.cache
+C:\D\Aulas20232\TE\Aula 03 - TE - 2023\LojaColchoes\obj\Debug\net7.0-windows\LojaColchoes.dll
+C:\D\Aulas20232\TE\Aula 03 - TE - 2023\LojaColchoes\obj\Debug\net7.0-windows\refint\LojaColchoes.dll
+C:\D\Aulas20232\TE\Aula 03 - TE - 2023\LojaColchoes\obj\Debug\net7.0-windows\LojaColchoes.pdb
+C:\D\Aulas20232\TE\Aula 03 - TE - 2023\LojaColchoes\obj\Debug\net7.0-windows\LojaColchoes.genruntimeconfig.cache
+C:\D\Aulas20232\TE\Aula 03 - TE - 2023\LojaColchoes\obj\Debug\net7.0-windows\ref\LojaColchoes.dll

@@ -1,0 +1,40 @@
+c:\users\mfpledon\documents\visual studio 2013\Projects\ConsoleAppAlunoPessoa\ConsoleAppAlunoPessoa\bin\Debug\ConsoleAppAlunoPessoa.exe.config
+c:\users\mfpledon\documents\visual studio 2013\Projects\ConsoleAppAlunoPessoa\ConsoleAppAlunoPessoa\bin\Debug\ConsoleAppAlunoPessoa.exe
+c:\users\mfpledon\documents\visual studio 2013\Projects\ConsoleAppAlunoPessoa\ConsoleAppAlunoPessoa\bin\Debug\ConsoleAppAlunoPessoa.pdb
+c:\users\mfpledon\documents\visual studio 2013\Projects\ConsoleAppAlunoPessoa\ConsoleAppAlunoPessoa\obj\Debug\ConsoleAppAlunoPessoa.exe
+c:\users\mfpledon\documents\visual studio 2013\Projects\ConsoleAppAlunoPessoa\ConsoleAppAlunoPessoa\obj\Debug\ConsoleAppAlunoPessoa.pdb
+C:\D\Aulas          -    2017 - 2º semestre\2017-2º - TE\ConsoleAppAlunoPessoa\ConsoleAppAlunoPessoa\bin\Debug\ConsoleAppAlunoPessoa.exe.config
+C:\D\Aulas          -    2017 - 2º semestre\2017-2º - TE\ConsoleAppAlunoPessoa\ConsoleAppAlunoPessoa\bin\Debug\ConsoleAppAlunoPessoa.exe
+C:\D\Aulas          -    2017 - 2º semestre\2017-2º - TE\ConsoleAppAlunoPessoa\ConsoleAppAlunoPessoa\bin\Debug\ConsoleAppAlunoPessoa.pdb
+C:\D\Aulas          -    2017 - 2º semestre\2017-2º - TE\ConsoleAppAlunoPessoa\ConsoleAppAlunoPessoa\obj\Debug\ConsoleAppAlunoPessoa.csprojResolveAssemblyReference.cache
+C:\D\Aulas          -    2017 - 2º semestre\2017-2º - TE\ConsoleAppAlunoPessoa\ConsoleAppAlunoPessoa\obj\Debug\ConsoleAppAlunoPessoa.exe
+C:\D\Aulas          -    2017 - 2º semestre\2017-2º - TE\ConsoleAppAlunoPessoa\ConsoleAppAlunoPessoa\obj\Debug\ConsoleAppAlunoPessoa.pdb
+C:\D\Aulas              -    2019 - 2º semestre\Aulas 2019 - 2º sem - TE\Aula 02 - TE - 2019\ConsoleAppAlunoPessoa\ConsoleAppAlunoPessoa\bin\Debug\ConsoleAppAlunoPessoa.exe.config
+C:\D\Aulas              -    2019 - 2º semestre\Aulas 2019 - 2º sem - TE\Aula 02 - TE - 2019\ConsoleAppAlunoPessoa\ConsoleAppAlunoPessoa\bin\Debug\ConsoleAppAlunoPessoa.exe
+C:\D\Aulas              -    2019 - 2º semestre\Aulas 2019 - 2º sem - TE\Aula 02 - TE - 2019\ConsoleAppAlunoPessoa\ConsoleAppAlunoPessoa\bin\Debug\ConsoleAppAlunoPessoa.pdb
+C:\D\Aulas              -    2019 - 2º semestre\Aulas 2019 - 2º sem - TE\Aula 02 - TE - 2019\ConsoleAppAlunoPessoa\ConsoleAppAlunoPessoa\obj\Debug\ConsoleAppAlunoPessoa.csprojAssemblyReference.cache
+C:\D\Aulas              -    2019 - 2º semestre\Aulas 2019 - 2º sem - TE\Aula 02 - TE - 2019\ConsoleAppAlunoPessoa\ConsoleAppAlunoPessoa\obj\Debug\ConsoleAppAlunoPessoa.csproj.CoreCompileInputs.cache
+C:\D\Aulas              -    2019 - 2º semestre\Aulas 2019 - 2º sem - TE\Aula 02 - TE - 2019\ConsoleAppAlunoPessoa\ConsoleAppAlunoPessoa\obj\Debug\ConsoleAppAlunoPessoa.exe
+C:\D\Aulas              -    2019 - 2º semestre\Aulas 2019 - 2º sem - TE\Aula 02 - TE - 2019\ConsoleAppAlunoPessoa\ConsoleAppAlunoPessoa\obj\Debug\ConsoleAppAlunoPessoa.pdb
+C:\Users\mfpledon\Desktop\ConsoleAppAlunoPessoa\ConsoleAppAlunoPessoa\bin\Debug\ConsoleAppAlunoPessoa.exe.config
+C:\Users\mfpledon\Desktop\ConsoleAppAlunoPessoa\ConsoleAppAlunoPessoa\bin\Debug\ConsoleAppAlunoPessoa.exe
+C:\Users\mfpledon\Desktop\ConsoleAppAlunoPessoa\ConsoleAppAlunoPessoa\bin\Debug\ConsoleAppAlunoPessoa.pdb
+C:\Users\mfpledon\Desktop\ConsoleAppAlunoPessoa\ConsoleAppAlunoPessoa\obj\Debug\ConsoleAppAlunoPessoa.csproj.AssemblyReference.cache
+C:\Users\mfpledon\Desktop\ConsoleAppAlunoPessoa\ConsoleAppAlunoPessoa\obj\Debug\ConsoleAppAlunoPessoa.csproj.CoreCompileInputs.cache
+C:\Users\mfpledon\Desktop\ConsoleAppAlunoPessoa\ConsoleAppAlunoPessoa\obj\Debug\ConsoleAppAlunoPessoa.exe
+C:\Users\mfpledon\Desktop\ConsoleAppAlunoPessoa\ConsoleAppAlunoPessoa\obj\Debug\ConsoleAppAlunoPessoa.pdb
+C:\D\Aulas      -     2023-2\TE\Aula 02 - TE - 2021\ConsoleAppAlunoPessoa\ConsoleAppAlunoPessoa\bin\Debug\ConsoleAppAlunoPessoa.exe.config
+C:\D\Aulas      -     2023-2\TE\Aula 02 - TE - 2021\ConsoleAppAlunoPessoa\ConsoleAppAlunoPessoa\bin\Debug\ConsoleAppAlunoPessoa.exe
+C:\D\Aulas      -     2023-2\TE\Aula 02 - TE - 2021\ConsoleAppAlunoPessoa\ConsoleAppAlunoPessoa\bin\Debug\ConsoleAppAlunoPessoa.pdb
+C:\D\Aulas      -     2023-2\TE\Aula 02 - TE - 2021\ConsoleAppAlunoPessoa\ConsoleAppAlunoPessoa\obj\Debug\ConsoleAppAlunoPessoa.csproj.AssemblyReference.cache
+C:\D\Aulas      -     2023-2\TE\Aula 02 - TE - 2021\ConsoleAppAlunoPessoa\ConsoleAppAlunoPessoa\obj\Debug\ConsoleAppAlunoPessoa.csproj.SuggestedBindingRedirects.cache
+C:\D\Aulas      -     2023-2\TE\Aula 02 - TE - 2021\ConsoleAppAlunoPessoa\ConsoleAppAlunoPessoa\obj\Debug\ConsoleAppAlunoPessoa.csproj.CoreCompileInputs.cache
+C:\D\Aulas      -     2023-2\TE\Aula 02 - TE - 2021\ConsoleAppAlunoPessoa\ConsoleAppAlunoPessoa\obj\Debug\ConsoleAppAlunoPessoa.exe
+C:\D\Aulas      -     2023-2\TE\Aula 02 - TE - 2021\ConsoleAppAlunoPessoa\ConsoleAppAlunoPessoa\obj\Debug\ConsoleAppAlunoPessoa.pdb
+C:\Users\Vini\Desktop\3º SEMESTRE\Tópicos Especiais em Desenvolvimento de Sistemas\Aula 02\ConsoleAppAlunoPessoa\ConsoleAppAlunoPessoa\bin\Debug\ConsoleAppAlunoPessoa.exe.config
+C:\Users\Vini\Desktop\3º SEMESTRE\Tópicos Especiais em Desenvolvimento de Sistemas\Aula 02\ConsoleAppAlunoPessoa\ConsoleAppAlunoPessoa\bin\Debug\ConsoleAppAlunoPessoa.exe
+C:\Users\Vini\Desktop\3º SEMESTRE\Tópicos Especiais em Desenvolvimento de Sistemas\Aula 02\ConsoleAppAlunoPessoa\ConsoleAppAlunoPessoa\bin\Debug\ConsoleAppAlunoPessoa.pdb
+C:\Users\Vini\Desktop\3º SEMESTRE\Tópicos Especiais em Desenvolvimento de Sistemas\Aula 02\ConsoleAppAlunoPessoa\ConsoleAppAlunoPessoa\obj\Debug\ConsoleAppAlunoPessoa.csproj.AssemblyReference.cache
+C:\Users\Vini\Desktop\3º SEMESTRE\Tópicos Especiais em Desenvolvimento de Sistemas\Aula 02\ConsoleAppAlunoPessoa\ConsoleAppAlunoPessoa\obj\Debug\ConsoleAppAlunoPessoa.csproj.CoreCompileInputs.cache
+C:\Users\Vini\Desktop\3º SEMESTRE\Tópicos Especiais em Desenvolvimento de Sistemas\Aula 02\ConsoleAppAlunoPessoa\ConsoleAppAlunoPessoa\obj\Debug\ConsoleAppAlunoPessoa.exe
+C:\Users\Vini\Desktop\3º SEMESTRE\Tópicos Especiais em Desenvolvimento de Sistemas\Aula 02\ConsoleAppAlunoPessoa\ConsoleAppAlunoPessoa\obj\Debug\ConsoleAppAlunoPessoa.pdb

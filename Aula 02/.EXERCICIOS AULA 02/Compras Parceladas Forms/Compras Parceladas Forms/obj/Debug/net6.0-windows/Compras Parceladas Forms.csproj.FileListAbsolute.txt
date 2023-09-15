@@ -1,0 +1,16 @@
+C:\Users\Vini\Documents\Visual Studio 2022\source\repos\Compras Parceladas Forms\Compras Parceladas Forms\bin\Debug\net6.0-windows\Compras Parceladas Forms.exe
+C:\Users\Vini\Documents\Visual Studio 2022\source\repos\Compras Parceladas Forms\Compras Parceladas Forms\bin\Debug\net6.0-windows\Compras Parceladas Forms.deps.json
+C:\Users\Vini\Documents\Visual Studio 2022\source\repos\Compras Parceladas Forms\Compras Parceladas Forms\bin\Debug\net6.0-windows\Compras Parceladas Forms.runtimeconfig.json
+C:\Users\Vini\Documents\Visual Studio 2022\source\repos\Compras Parceladas Forms\Compras Parceladas Forms\bin\Debug\net6.0-windows\Compras Parceladas Forms.dll
+C:\Users\Vini\Documents\Visual Studio 2022\source\repos\Compras Parceladas Forms\Compras Parceladas Forms\bin\Debug\net6.0-windows\Compras Parceladas Forms.pdb
+C:\Users\Vini\Documents\Visual Studio 2022\source\repos\Compras Parceladas Forms\Compras Parceladas Forms\obj\Debug\net6.0-windows\Compras_Parceladas_Forms.Form1.resources
+C:\Users\Vini\Documents\Visual Studio 2022\source\repos\Compras Parceladas Forms\Compras Parceladas Forms\obj\Debug\net6.0-windows\Compras Parceladas Forms.csproj.GenerateResource.cache
+C:\Users\Vini\Documents\Visual Studio 2022\source\repos\Compras Parceladas Forms\Compras Parceladas Forms\obj\Debug\net6.0-windows\Compras Parceladas Forms.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Vini\Documents\Visual Studio 2022\source\repos\Compras Parceladas Forms\Compras Parceladas Forms\obj\Debug\net6.0-windows\Compras Parceladas Forms.AssemblyInfoInputs.cache
+C:\Users\Vini\Documents\Visual Studio 2022\source\repos\Compras Parceladas Forms\Compras Parceladas Forms\obj\Debug\net6.0-windows\Compras Parceladas Forms.AssemblyInfo.cs
+C:\Users\Vini\Documents\Visual Studio 2022\source\repos\Compras Parceladas Forms\Compras Parceladas Forms\obj\Debug\net6.0-windows\Compras Parceladas Forms.csproj.CoreCompileInputs.cache
+C:\Users\Vini\Documents\Visual Studio 2022\source\repos\Compras Parceladas Forms\Compras Parceladas Forms\obj\Debug\net6.0-windows\Compras Parceladas Forms.dll
+C:\Users\Vini\Documents\Visual Studio 2022\source\repos\Compras Parceladas Forms\Compras Parceladas Forms\obj\Debug\net6.0-windows\refint\Compras Parceladas Forms.dll
+C:\Users\Vini\Documents\Visual Studio 2022\source\repos\Compras Parceladas Forms\Compras Parceladas Forms\obj\Debug\net6.0-windows\Compras Parceladas Forms.pdb
+C:\Users\Vini\Documents\Visual Studio 2022\source\repos\Compras Parceladas Forms\Compras Parceladas Forms\obj\Debug\net6.0-windows\Compras Parceladas Forms.genruntimeconfig.cache
+C:\Users\Vini\Documents\Visual Studio 2022\source\repos\Compras Parceladas Forms\Compras Parceladas Forms\obj\Debug\net6.0-windows\ref\Compras Parceladas Forms.dll

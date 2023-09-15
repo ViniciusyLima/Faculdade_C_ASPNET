@@ -1,0 +1,59 @@
+c:\users\ledon\documents\visual studio 2010\Projects\SomarDoisValores\SomarDoisValores\bin\Debug\SomarDoisValores.exe
+c:\users\ledon\documents\visual studio 2010\Projects\SomarDoisValores\SomarDoisValores\bin\Debug\SomarDoisValores.pdb
+c:\users\ledon\documents\visual studio 2010\Projects\SomarDoisValores\SomarDoisValores\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\ledon\documents\visual studio 2010\Projects\SomarDoisValores\SomarDoisValores\obj\x86\Debug\SomarDoisValores.Form1.resources
+c:\users\ledon\documents\visual studio 2010\Projects\SomarDoisValores\SomarDoisValores\obj\x86\Debug\SomarDoisValores.Properties.Resources.resources
+c:\users\ledon\documents\visual studio 2010\Projects\SomarDoisValores\SomarDoisValores\obj\x86\Debug\GenerateResource.read.1.tlog
+c:\users\ledon\documents\visual studio 2010\Projects\SomarDoisValores\SomarDoisValores\obj\x86\Debug\GenerateResource.write.1.tlog
+c:\users\ledon\documents\visual studio 2010\Projects\SomarDoisValores\SomarDoisValores\obj\x86\Debug\SomarDoisValores.exe
+c:\users\ledon\documents\visual studio 2010\Projects\SomarDoisValores\SomarDoisValores\obj\x86\Debug\SomarDoisValores.pdb
+C:\Users\Ledon\Documents\Visual Studio 2010\Projects\SomarDoisValores\SomarDoisValores\obj\x86\Debug\SomarDoisValores.Form2.resources
+C:\Users\logonaf\Desktop\SomarDoisValores\SomarDoisValores\obj\x86\Debug\SomarDoisValores.exe
+C:\Users\logonaf\Desktop\SomarDoisValores\SomarDoisValores\obj\x86\Debug\SomarDoisValores.pdb
+C:\Users\logonaf\Desktop\SomarDoisValores\SomarDoisValores\bin\Debug\SomarDoisValores.exe
+C:\Users\logonaf\Desktop\SomarDoisValores\SomarDoisValores\bin\Debug\SomarDoisValores.pdb
+C:\Users\logonaf\Desktop\SomarDoisValores\SomarDoisValores\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\logonaf\Desktop\SomarDoisValores\SomarDoisValores\obj\x86\Debug\SomarDoisValores.Form2.resources
+C:\Users\logonaf\Desktop\SomarDoisValores\SomarDoisValores\obj\x86\Debug\SomarDoisValores.Form1.resources
+C:\Users\logonaf\Desktop\SomarDoisValores\SomarDoisValores\obj\x86\Debug\SomarDoisValores.Properties.Resources.resources
+C:\Users\logonaf\Desktop\SomarDoisValores\SomarDoisValores\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\logonaf\Desktop\SomarDoisValores\SomarDoisValores\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\mfpledon\Desktop\SomarDoisValores\SomarDoisValores\obj\x86\Debug\SomarDoisValores.exe
+C:\Users\mfpledon\Desktop\SomarDoisValores\SomarDoisValores\obj\x86\Debug\SomarDoisValores.pdb
+C:\Users\mfpledon\Desktop\SomarDoisValores\SomarDoisValores\bin\Debug\SomarDoisValores.exe
+C:\Users\mfpledon\Desktop\SomarDoisValores\SomarDoisValores\bin\Debug\SomarDoisValores.pdb
+C:\Users\mfpledon\Desktop\SomarDoisValores\SomarDoisValores\obj\x86\Debug\SomarDoisValores.Form2.resources
+C:\Users\mfpledon\Desktop\SomarDoisValores\SomarDoisValores\obj\x86\Debug\SomarDoisValores.Form1.resources
+C:\Users\mfpledon\Desktop\SomarDoisValores\SomarDoisValores\obj\x86\Debug\SomarDoisValores.Properties.Resources.resources
+C:\Users\mfpledon\Desktop\SomarDoisValores\SomarDoisValores\obj\x86\Debug\SomarDoisValores.csproj.GenerateResource.Cache
+C:\D\Aulas          -    2017 - 2º semestre\2017-2º - TE\SomarDoisValores\SomarDoisValores\bin\Debug\SomarDoisValores.exe
+C:\D\Aulas          -    2017 - 2º semestre\2017-2º - TE\SomarDoisValores\SomarDoisValores\bin\Debug\SomarDoisValores.pdb
+C:\D\Aulas          -    2017 - 2º semestre\2017-2º - TE\SomarDoisValores\SomarDoisValores\obj\x86\Debug\SomarDoisValores.csprojResolveAssemblyReference.cache
+C:\D\Aulas          -    2017 - 2º semestre\2017-2º - TE\SomarDoisValores\SomarDoisValores\obj\x86\Debug\SomarDoisValores.Form2.resources
+C:\D\Aulas          -    2017 - 2º semestre\2017-2º - TE\SomarDoisValores\SomarDoisValores\obj\x86\Debug\SomarDoisValores.Form1.resources
+C:\D\Aulas          -    2017 - 2º semestre\2017-2º - TE\SomarDoisValores\SomarDoisValores\obj\x86\Debug\SomarDoisValores.Properties.Resources.resources
+C:\D\Aulas          -    2017 - 2º semestre\2017-2º - TE\SomarDoisValores\SomarDoisValores\obj\x86\Debug\SomarDoisValores.csproj.GenerateResource.Cache
+C:\D\Aulas          -    2017 - 2º semestre\2017-2º - TE\SomarDoisValores\SomarDoisValores\obj\x86\Debug\SomarDoisValores.exe
+C:\D\Aulas          -    2017 - 2º semestre\2017-2º - TE\SomarDoisValores\SomarDoisValores\obj\x86\Debug\SomarDoisValores.pdb
+C:\D\Aulas              -    2019 - 2º semestre\Aulas 2019 - 2º sem - TE\Aula 02 - TE - 2019\SomarDoisValores\SomarDoisValores\bin\Debug\SomarDoisValores.exe
+C:\D\Aulas              -    2019 - 2º semestre\Aulas 2019 - 2º sem - TE\Aula 02 - TE - 2019\SomarDoisValores\SomarDoisValores\bin\Debug\SomarDoisValores.pdb
+C:\D\Aulas              -    2019 - 2º semestre\Aulas 2019 - 2º sem - TE\Aula 02 - TE - 2019\SomarDoisValores\SomarDoisValores\obj\x86\Debug\SomarDoisValores.csprojAssemblyReference.cache
+C:\D\Aulas              -    2019 - 2º semestre\Aulas 2019 - 2º sem - TE\Aula 02 - TE - 2019\SomarDoisValores\SomarDoisValores\obj\x86\Debug\SomarDoisValores.Form2.resources
+C:\D\Aulas              -    2019 - 2º semestre\Aulas 2019 - 2º sem - TE\Aula 02 - TE - 2019\SomarDoisValores\SomarDoisValores\obj\x86\Debug\SomarDoisValores.Form1.resources
+C:\D\Aulas              -    2019 - 2º semestre\Aulas 2019 - 2º sem - TE\Aula 02 - TE - 2019\SomarDoisValores\SomarDoisValores\obj\x86\Debug\SomarDoisValores.Properties.Resources.resources
+C:\D\Aulas              -    2019 - 2º semestre\Aulas 2019 - 2º sem - TE\Aula 02 - TE - 2019\SomarDoisValores\SomarDoisValores\obj\x86\Debug\SomarDoisValores.csproj.GenerateResource.cache
+C:\D\Aulas              -    2019 - 2º semestre\Aulas 2019 - 2º sem - TE\Aula 02 - TE - 2019\SomarDoisValores\SomarDoisValores\obj\x86\Debug\SomarDoisValores.csproj.CoreCompileInputs.cache
+C:\D\Aulas              -    2019 - 2º semestre\Aulas 2019 - 2º sem - TE\Aula 02 - TE - 2019\SomarDoisValores\SomarDoisValores\obj\x86\Debug\SomarDoisValores.exe
+C:\D\Aulas              -    2019 - 2º semestre\Aulas 2019 - 2º sem - TE\Aula 02 - TE - 2019\SomarDoisValores\SomarDoisValores\obj\x86\Debug\SomarDoisValores.pdb
+C:\Users\mfpledon\Desktop\SomarDoisValores\SomarDoisValores\obj\x86\Debug\SomarDoisValores.csproj.CoreCompileInputs.cache
+C:\Users\Vini\Desktop\3º SEMESTRE\Tópicos Especiais em Desenvolvimento de Sistemas\Aula 02\SomarDoisValores\SomarDoisValores\bin\Debug\SomarDoisValores.exe.config
+C:\Users\Vini\Desktop\3º SEMESTRE\Tópicos Especiais em Desenvolvimento de Sistemas\Aula 02\SomarDoisValores\SomarDoisValores\bin\Debug\SomarDoisValores.exe
+C:\Users\Vini\Desktop\3º SEMESTRE\Tópicos Especiais em Desenvolvimento de Sistemas\Aula 02\SomarDoisValores\SomarDoisValores\bin\Debug\SomarDoisValores.pdb
+C:\Users\Vini\Desktop\3º SEMESTRE\Tópicos Especiais em Desenvolvimento de Sistemas\Aula 02\SomarDoisValores\SomarDoisValores\obj\x86\Debug\SomarDoisValores.csproj.AssemblyReference.cache
+C:\Users\Vini\Desktop\3º SEMESTRE\Tópicos Especiais em Desenvolvimento de Sistemas\Aula 02\SomarDoisValores\SomarDoisValores\obj\x86\Debug\SomarDoisValores.Form2.resources
+C:\Users\Vini\Desktop\3º SEMESTRE\Tópicos Especiais em Desenvolvimento de Sistemas\Aula 02\SomarDoisValores\SomarDoisValores\obj\x86\Debug\SomarDoisValores.Form1.resources
+C:\Users\Vini\Desktop\3º SEMESTRE\Tópicos Especiais em Desenvolvimento de Sistemas\Aula 02\SomarDoisValores\SomarDoisValores\obj\x86\Debug\SomarDoisValores.Properties.Resources.resources
+C:\Users\Vini\Desktop\3º SEMESTRE\Tópicos Especiais em Desenvolvimento de Sistemas\Aula 02\SomarDoisValores\SomarDoisValores\obj\x86\Debug\SomarDoisValores.csproj.GenerateResource.cache
+C:\Users\Vini\Desktop\3º SEMESTRE\Tópicos Especiais em Desenvolvimento de Sistemas\Aula 02\SomarDoisValores\SomarDoisValores\obj\x86\Debug\SomarDoisValores.csproj.CoreCompileInputs.cache
+C:\Users\Vini\Desktop\3º SEMESTRE\Tópicos Especiais em Desenvolvimento de Sistemas\Aula 02\SomarDoisValores\SomarDoisValores\obj\x86\Debug\SomarDoisValores.exe
+C:\Users\Vini\Desktop\3º SEMESTRE\Tópicos Especiais em Desenvolvimento de Sistemas\Aula 02\SomarDoisValores\SomarDoisValores\obj\x86\Debug\SomarDoisValores.pdb

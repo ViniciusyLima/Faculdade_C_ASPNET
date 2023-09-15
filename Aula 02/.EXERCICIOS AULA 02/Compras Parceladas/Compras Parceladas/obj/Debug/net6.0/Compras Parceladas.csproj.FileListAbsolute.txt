@@ -1,0 +1,28 @@
+C:\Users\Vini\source\repos\Compras Parceladas\Compras Parceladas\bin\Debug\net6.0\Compras Parceladas.exe
+C:\Users\Vini\source\repos\Compras Parceladas\Compras Parceladas\bin\Debug\net6.0\Compras Parceladas.deps.json
+C:\Users\Vini\source\repos\Compras Parceladas\Compras Parceladas\bin\Debug\net6.0\Compras Parceladas.runtimeconfig.json
+C:\Users\Vini\source\repos\Compras Parceladas\Compras Parceladas\bin\Debug\net6.0\Compras Parceladas.dll
+C:\Users\Vini\source\repos\Compras Parceladas\Compras Parceladas\bin\Debug\net6.0\Compras Parceladas.pdb
+C:\Users\Vini\source\repos\Compras Parceladas\Compras Parceladas\obj\Debug\net6.0\Compras Parceladas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Vini\source\repos\Compras Parceladas\Compras Parceladas\obj\Debug\net6.0\Compras Parceladas.AssemblyInfoInputs.cache
+C:\Users\Vini\source\repos\Compras Parceladas\Compras Parceladas\obj\Debug\net6.0\Compras Parceladas.AssemblyInfo.cs
+C:\Users\Vini\source\repos\Compras Parceladas\Compras Parceladas\obj\Debug\net6.0\Compras Parceladas.csproj.CoreCompileInputs.cache
+C:\Users\Vini\source\repos\Compras Parceladas\Compras Parceladas\obj\Debug\net6.0\Compras Parceladas.dll
+C:\Users\Vini\source\repos\Compras Parceladas\Compras Parceladas\obj\Debug\net6.0\refint\Compras Parceladas.dll
+C:\Users\Vini\source\repos\Compras Parceladas\Compras Parceladas\obj\Debug\net6.0\Compras Parceladas.pdb
+C:\Users\Vini\source\repos\Compras Parceladas\Compras Parceladas\obj\Debug\net6.0\Compras Parceladas.genruntimeconfig.cache
+C:\Users\Vini\source\repos\Compras Parceladas\Compras Parceladas\obj\Debug\net6.0\ref\Compras Parceladas.dll
+C:\Users\Vini\Desktop\3º SEMESTRE\Tópicos Especiais em Desenvolvimento de Sistemas\Aula 02\EXERCICIOS AULA 02\Compras Parceladas\Compras Parceladas\bin\Debug\net6.0\Compras Parceladas.exe
+C:\Users\Vini\Desktop\3º SEMESTRE\Tópicos Especiais em Desenvolvimento de Sistemas\Aula 02\EXERCICIOS AULA 02\Compras Parceladas\Compras Parceladas\bin\Debug\net6.0\Compras Parceladas.deps.json
+C:\Users\Vini\Desktop\3º SEMESTRE\Tópicos Especiais em Desenvolvimento de Sistemas\Aula 02\EXERCICIOS AULA 02\Compras Parceladas\Compras Parceladas\bin\Debug\net6.0\Compras Parceladas.runtimeconfig.json
+C:\Users\Vini\Desktop\3º SEMESTRE\Tópicos Especiais em Desenvolvimento de Sistemas\Aula 02\EXERCICIOS AULA 02\Compras Parceladas\Compras Parceladas\bin\Debug\net6.0\Compras Parceladas.dll
+C:\Users\Vini\Desktop\3º SEMESTRE\Tópicos Especiais em Desenvolvimento de Sistemas\Aula 02\EXERCICIOS AULA 02\Compras Parceladas\Compras Parceladas\bin\Debug\net6.0\Compras Parceladas.pdb
+C:\Users\Vini\Desktop\3º SEMESTRE\Tópicos Especiais em Desenvolvimento de Sistemas\Aula 02\EXERCICIOS AULA 02\Compras Parceladas\Compras Parceladas\obj\Debug\net6.0\Compras Parceladas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Vini\Desktop\3º SEMESTRE\Tópicos Especiais em Desenvolvimento de Sistemas\Aula 02\EXERCICIOS AULA 02\Compras Parceladas\Compras Parceladas\obj\Debug\net6.0\Compras Parceladas.AssemblyInfoInputs.cache
+C:\Users\Vini\Desktop\3º SEMESTRE\Tópicos Especiais em Desenvolvimento de Sistemas\Aula 02\EXERCICIOS AULA 02\Compras Parceladas\Compras Parceladas\obj\Debug\net6.0\Compras Parceladas.AssemblyInfo.cs
+C:\Users\Vini\Desktop\3º SEMESTRE\Tópicos Especiais em Desenvolvimento de Sistemas\Aula 02\EXERCICIOS AULA 02\Compras Parceladas\Compras Parceladas\obj\Debug\net6.0\Compras Parceladas.csproj.CoreCompileInputs.cache
+C:\Users\Vini\Desktop\3º SEMESTRE\Tópicos Especiais em Desenvolvimento de Sistemas\Aula 02\EXERCICIOS AULA 02\Compras Parceladas\Compras Parceladas\obj\Debug\net6.0\Compras Parceladas.dll
+C:\Users\Vini\Desktop\3º SEMESTRE\Tópicos Especiais em Desenvolvimento de Sistemas\Aula 02\EXERCICIOS AULA 02\Compras Parceladas\Compras Parceladas\obj\Debug\net6.0\refint\Compras Parceladas.dll
+C:\Users\Vini\Desktop\3º SEMESTRE\Tópicos Especiais em Desenvolvimento de Sistemas\Aula 02\EXERCICIOS AULA 02\Compras Parceladas\Compras Parceladas\obj\Debug\net6.0\Compras Parceladas.pdb
+C:\Users\Vini\Desktop\3º SEMESTRE\Tópicos Especiais em Desenvolvimento de Sistemas\Aula 02\EXERCICIOS AULA 02\Compras Parceladas\Compras Parceladas\obj\Debug\net6.0\Compras Parceladas.genruntimeconfig.cache
+C:\Users\Vini\Desktop\3º SEMESTRE\Tópicos Especiais em Desenvolvimento de Sistemas\Aula 02\EXERCICIOS AULA 02\Compras Parceladas\Compras Parceladas\obj\Debug\net6.0\ref\Compras Parceladas.dll

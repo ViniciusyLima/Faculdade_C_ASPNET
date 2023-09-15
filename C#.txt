@@ -1,0 +1,56 @@
+//////////// CLASSE TRABALHADOR //////////// 
+
+namespace OlaMundo
+{
+    internal class Trabalhador
+    {
+        private string nome;
+        private float salario;
+
+        public Trabalhador(string nome, float salario)
+        {
+            this.Nome = nome;
+            this.Salario = salario;
+        }
+
+        public string Nome
+        {
+            get => nome;
+            set => nome = value;
+        }
+        public float Salario
+        {
+            get => salario;
+            set => salario = value;
+        }
+
+        public string toString()
+        {
+           return nome + ", salário R$" + Salario;
+        }
+    }
+}
+
+
+
+
+
+
+//////////// PROGRAMA //////////// 
+
+using OlaMundo;
+
+Console.WriteLine("Hello, World!");
+float res = 0;
+res = 4.2f + 9.1f;
+Console.WriteLine("A soma vale: " + res);
+
+Trabalhador tr1 = new Trabalhador("Ana Lopes", 5600);
+Trabalhador tr2 = new Trabalhador("Manuel Ledón", 15000);
+Console.WriteLine(tr1.toString());
+Console.WriteLine(tr2.toString());
+
+//vamos alterar o salário de um trabalhador:
+tr1.Salario = 8500;
+Console.WriteLine("Ana, com salário alterado:\n" + tr1.toString());
+

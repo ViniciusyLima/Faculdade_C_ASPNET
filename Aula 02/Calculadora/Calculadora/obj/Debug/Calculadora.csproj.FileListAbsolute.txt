@@ -1,0 +1,28 @@
+c:\users\logonaf\documents\visual studio 2013\Projects\Calculadora\Calculadora\bin\Debug\Calculadora.exe.config
+c:\users\logonaf\documents\visual studio 2013\Projects\Calculadora\Calculadora\bin\Debug\Calculadora.exe
+c:\users\logonaf\documents\visual studio 2013\Projects\Calculadora\Calculadora\bin\Debug\Calculadora.pdb
+c:\users\logonaf\documents\visual studio 2013\Projects\Calculadora\Calculadora\obj\Debug\Calculadora.csprojResolveAssemblyReference.cache
+c:\users\logonaf\documents\visual studio 2013\Projects\Calculadora\Calculadora\obj\Debug\Calculadora.Form1.resources
+c:\users\logonaf\documents\visual studio 2013\Projects\Calculadora\Calculadora\obj\Debug\Calculadora.Properties.Resources.resources
+c:\users\logonaf\documents\visual studio 2013\Projects\Calculadora\Calculadora\obj\Debug\Calculadora.csproj.GenerateResource.Cache
+c:\users\logonaf\documents\visual studio 2013\Projects\Calculadora\Calculadora\obj\Debug\Calculadora.exe
+c:\users\logonaf\documents\visual studio 2013\Projects\Calculadora\Calculadora\obj\Debug\Calculadora.pdb
+C:\D\Aulas          -    2017 - 2º semestre\2017-2º - TE\Calculadora\Calculadora\bin\Debug\Calculadora.exe.config
+C:\D\Aulas          -    2017 - 2º semestre\2017-2º - TE\Calculadora\Calculadora\bin\Debug\Calculadora.exe
+C:\D\Aulas          -    2017 - 2º semestre\2017-2º - TE\Calculadora\Calculadora\bin\Debug\Calculadora.pdb
+C:\D\Aulas          -    2017 - 2º semestre\2017-2º - TE\Calculadora\Calculadora\obj\Debug\Calculadora.csprojResolveAssemblyReference.cache
+C:\D\Aulas          -    2017 - 2º semestre\2017-2º - TE\Calculadora\Calculadora\obj\Debug\Calculadora.Form1.resources
+C:\D\Aulas          -    2017 - 2º semestre\2017-2º - TE\Calculadora\Calculadora\obj\Debug\Calculadora.Properties.Resources.resources
+C:\D\Aulas          -    2017 - 2º semestre\2017-2º - TE\Calculadora\Calculadora\obj\Debug\Calculadora.csproj.GenerateResource.Cache
+C:\D\Aulas          -    2017 - 2º semestre\2017-2º - TE\Calculadora\Calculadora\obj\Debug\Calculadora.exe
+C:\D\Aulas          -    2017 - 2º semestre\2017-2º - TE\Calculadora\Calculadora\obj\Debug\Calculadora.pdb
+C:\Users\mfpledon\Desktop\Calculadora\Calculadora\bin\Debug\Calculadora.exe.config
+C:\Users\mfpledon\Desktop\Calculadora\Calculadora\bin\Debug\Calculadora.exe
+C:\Users\mfpledon\Desktop\Calculadora\Calculadora\bin\Debug\Calculadora.pdb
+C:\Users\mfpledon\Desktop\Calculadora\Calculadora\obj\Debug\Calculadora.csproj.AssemblyReference.cache
+C:\Users\mfpledon\Desktop\Calculadora\Calculadora\obj\Debug\Calculadora.Form1.resources
+C:\Users\mfpledon\Desktop\Calculadora\Calculadora\obj\Debug\Calculadora.Properties.Resources.resources
+C:\Users\mfpledon\Desktop\Calculadora\Calculadora\obj\Debug\Calculadora.csproj.GenerateResource.cache
+C:\Users\mfpledon\Desktop\Calculadora\Calculadora\obj\Debug\Calculadora.csproj.CoreCompileInputs.cache
+C:\Users\mfpledon\Desktop\Calculadora\Calculadora\obj\Debug\Calculadora.exe
+C:\Users\mfpledon\Desktop\Calculadora\Calculadora\obj\Debug\Calculadora.pdb

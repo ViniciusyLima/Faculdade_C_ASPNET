@@ -1,0 +1,31 @@
+C:\Users\autologon\Documents\testes\teste\teste\bin\Debug\teste.exe.config
+C:\Users\autologon\Documents\testes\teste\teste\bin\Debug\teste.exe
+C:\Users\autologon\Documents\testes\teste\teste\bin\Debug\teste.pdb
+C:\Users\autologon\Documents\testes\teste\teste\obj\Debug\teste.csproj.AssemblyReference.cache
+C:\Users\autologon\Documents\testes\teste\teste\obj\Debug\teste.csproj.SuggestedBindingRedirects.cache
+C:\Users\autologon\Documents\testes\teste\teste\obj\Debug\teste.Form1.resources
+C:\Users\autologon\Documents\testes\teste\teste\obj\Debug\teste.Properties.Resources.resources
+C:\Users\autologon\Documents\testes\teste\teste\obj\Debug\teste.csproj.GenerateResource.cache
+C:\Users\autologon\Documents\testes\teste\teste\obj\Debug\teste.csproj.CoreCompileInputs.cache
+C:\Users\autologon\Documents\testes\teste\teste\obj\Debug\teste.exe
+C:\Users\autologon\Documents\testes\teste\teste\obj\Debug\teste.pdb
+C:\Users\chris\OneDrive\Documents\atvs\Ativ 01\Ativ 01\Exer 02\teste\teste\bin\Debug\teste.exe.config
+C:\Users\chris\OneDrive\Documents\atvs\Ativ 01\Ativ 01\Exer 02\teste\teste\bin\Debug\teste.exe
+C:\Users\chris\OneDrive\Documents\atvs\Ativ 01\Ativ 01\Exer 02\teste\teste\bin\Debug\teste.pdb
+C:\Users\chris\OneDrive\Documents\atvs\Ativ 01\Ativ 01\Exer 02\teste\teste\obj\Debug\teste.csproj.AssemblyReference.cache
+C:\Users\chris\OneDrive\Documents\atvs\Ativ 01\Ativ 01\Exer 02\teste\teste\obj\Debug\teste.Form1.resources
+C:\Users\chris\OneDrive\Documents\atvs\Ativ 01\Ativ 01\Exer 02\teste\teste\obj\Debug\teste.Properties.Resources.resources
+C:\Users\chris\OneDrive\Documents\atvs\Ativ 01\Ativ 01\Exer 02\teste\teste\obj\Debug\teste.csproj.GenerateResource.cache
+C:\Users\chris\OneDrive\Documents\atvs\Ativ 01\Ativ 01\Exer 02\teste\teste\obj\Debug\teste.csproj.CoreCompileInputs.cache
+C:\Users\chris\OneDrive\Documents\atvs\Ativ 01\Ativ 01\Exer 02\teste\teste\obj\Debug\teste.exe
+C:\Users\chris\OneDrive\Documents\atvs\Ativ 01\Ativ 01\Exer 02\teste\teste\obj\Debug\teste.pdb
+C:\Users\Vini\Desktop\3º SEMESTRE\Tópicos Especiais em Desenvolvimento de Sistemas\Aula 02\EXERCICIOS AULA 02\Exer 02\teste\teste\bin\Debug\teste.exe.config
+C:\Users\Vini\Desktop\3º SEMESTRE\Tópicos Especiais em Desenvolvimento de Sistemas\Aula 02\EXERCICIOS AULA 02\Exer 02\teste\teste\bin\Debug\teste.exe
+C:\Users\Vini\Desktop\3º SEMESTRE\Tópicos Especiais em Desenvolvimento de Sistemas\Aula 02\EXERCICIOS AULA 02\Exer 02\teste\teste\bin\Debug\teste.pdb
+C:\Users\Vini\Desktop\3º SEMESTRE\Tópicos Especiais em Desenvolvimento de Sistemas\Aula 02\EXERCICIOS AULA 02\Exer 02\teste\teste\obj\Debug\teste.csproj.AssemblyReference.cache
+C:\Users\Vini\Desktop\3º SEMESTRE\Tópicos Especiais em Desenvolvimento de Sistemas\Aula 02\EXERCICIOS AULA 02\Exer 02\teste\teste\obj\Debug\teste.Form1.resources
+C:\Users\Vini\Desktop\3º SEMESTRE\Tópicos Especiais em Desenvolvimento de Sistemas\Aula 02\EXERCICIOS AULA 02\Exer 02\teste\teste\obj\Debug\teste.Properties.Resources.resources
+C:\Users\Vini\Desktop\3º SEMESTRE\Tópicos Especiais em Desenvolvimento de Sistemas\Aula 02\EXERCICIOS AULA 02\Exer 02\teste\teste\obj\Debug\teste.csproj.GenerateResource.cache
+C:\Users\Vini\Desktop\3º SEMESTRE\Tópicos Especiais em Desenvolvimento de Sistemas\Aula 02\EXERCICIOS AULA 02\Exer 02\teste\teste\obj\Debug\teste.csproj.CoreCompileInputs.cache
+C:\Users\Vini\Desktop\3º SEMESTRE\Tópicos Especiais em Desenvolvimento de Sistemas\Aula 02\EXERCICIOS AULA 02\Exer 02\teste\teste\obj\Debug\teste.exe
+C:\Users\Vini\Desktop\3º SEMESTRE\Tópicos Especiais em Desenvolvimento de Sistemas\Aula 02\EXERCICIOS AULA 02\Exer 02\teste\teste\obj\Debug\teste.pdb

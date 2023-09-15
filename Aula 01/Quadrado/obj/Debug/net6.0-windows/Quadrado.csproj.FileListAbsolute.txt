@@ -1,0 +1,33 @@
+C:\Users\autologon\source\repos\Quadrado\bin\Debug\net6.0-windows\Quadrado.exe
+C:\Users\autologon\source\repos\Quadrado\bin\Debug\net6.0-windows\Quadrado.deps.json
+C:\Users\autologon\source\repos\Quadrado\bin\Debug\net6.0-windows\Quadrado.runtimeconfig.json
+C:\Users\autologon\source\repos\Quadrado\bin\Debug\net6.0-windows\Quadrado.dll
+C:\Users\autologon\source\repos\Quadrado\bin\Debug\net6.0-windows\Quadrado.pdb
+C:\Users\autologon\source\repos\Quadrado\obj\Debug\net6.0-windows\Quadrado.csproj.AssemblyReference.cache
+C:\Users\autologon\source\repos\Quadrado\obj\Debug\net6.0-windows\Quadrado.Form1.resources
+C:\Users\autologon\source\repos\Quadrado\obj\Debug\net6.0-windows\Quadrado.csproj.GenerateResource.cache
+C:\Users\autologon\source\repos\Quadrado\obj\Debug\net6.0-windows\Quadrado.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\autologon\source\repos\Quadrado\obj\Debug\net6.0-windows\Quadrado.AssemblyInfoInputs.cache
+C:\Users\autologon\source\repos\Quadrado\obj\Debug\net6.0-windows\Quadrado.AssemblyInfo.cs
+C:\Users\autologon\source\repos\Quadrado\obj\Debug\net6.0-windows\Quadrado.csproj.CoreCompileInputs.cache
+C:\Users\autologon\source\repos\Quadrado\obj\Debug\net6.0-windows\Quadrado.dll
+C:\Users\autologon\source\repos\Quadrado\obj\Debug\net6.0-windows\refint\Quadrado.dll
+C:\Users\autologon\source\repos\Quadrado\obj\Debug\net6.0-windows\Quadrado.pdb
+C:\Users\autologon\source\repos\Quadrado\obj\Debug\net6.0-windows\Quadrado.genruntimeconfig.cache
+C:\Users\autologon\source\repos\Quadrado\obj\Debug\net6.0-windows\ref\Quadrado.dll
+C:\Users\Vini\Desktop\3º SEMESTRE\Tópicos Especiais em Desenvolvimento de Sistemas\Aula 01\Quadrado\bin\Debug\net6.0-windows\Quadrado.exe
+C:\Users\Vini\Desktop\3º SEMESTRE\Tópicos Especiais em Desenvolvimento de Sistemas\Aula 01\Quadrado\bin\Debug\net6.0-windows\Quadrado.deps.json
+C:\Users\Vini\Desktop\3º SEMESTRE\Tópicos Especiais em Desenvolvimento de Sistemas\Aula 01\Quadrado\bin\Debug\net6.0-windows\Quadrado.runtimeconfig.json
+C:\Users\Vini\Desktop\3º SEMESTRE\Tópicos Especiais em Desenvolvimento de Sistemas\Aula 01\Quadrado\bin\Debug\net6.0-windows\Quadrado.dll
+C:\Users\Vini\Desktop\3º SEMESTRE\Tópicos Especiais em Desenvolvimento de Sistemas\Aula 01\Quadrado\bin\Debug\net6.0-windows\Quadrado.pdb
+C:\Users\Vini\Desktop\3º SEMESTRE\Tópicos Especiais em Desenvolvimento de Sistemas\Aula 01\Quadrado\obj\Debug\net6.0-windows\Quadrado.Form1.resources
+C:\Users\Vini\Desktop\3º SEMESTRE\Tópicos Especiais em Desenvolvimento de Sistemas\Aula 01\Quadrado\obj\Debug\net6.0-windows\Quadrado.csproj.GenerateResource.cache
+C:\Users\Vini\Desktop\3º SEMESTRE\Tópicos Especiais em Desenvolvimento de Sistemas\Aula 01\Quadrado\obj\Debug\net6.0-windows\Quadrado.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Vini\Desktop\3º SEMESTRE\Tópicos Especiais em Desenvolvimento de Sistemas\Aula 01\Quadrado\obj\Debug\net6.0-windows\Quadrado.AssemblyInfoInputs.cache
+C:\Users\Vini\Desktop\3º SEMESTRE\Tópicos Especiais em Desenvolvimento de Sistemas\Aula 01\Quadrado\obj\Debug\net6.0-windows\Quadrado.AssemblyInfo.cs
+C:\Users\Vini\Desktop\3º SEMESTRE\Tópicos Especiais em Desenvolvimento de Sistemas\Aula 01\Quadrado\obj\Debug\net6.0-windows\Quadrado.csproj.CoreCompileInputs.cache
+C:\Users\Vini\Desktop\3º SEMESTRE\Tópicos Especiais em Desenvolvimento de Sistemas\Aula 01\Quadrado\obj\Debug\net6.0-windows\Quadrado.dll
+C:\Users\Vini\Desktop\3º SEMESTRE\Tópicos Especiais em Desenvolvimento de Sistemas\Aula 01\Quadrado\obj\Debug\net6.0-windows\refint\Quadrado.dll
+C:\Users\Vini\Desktop\3º SEMESTRE\Tópicos Especiais em Desenvolvimento de Sistemas\Aula 01\Quadrado\obj\Debug\net6.0-windows\Quadrado.pdb
+C:\Users\Vini\Desktop\3º SEMESTRE\Tópicos Especiais em Desenvolvimento de Sistemas\Aula 01\Quadrado\obj\Debug\net6.0-windows\Quadrado.genruntimeconfig.cache
+C:\Users\Vini\Desktop\3º SEMESTRE\Tópicos Especiais em Desenvolvimento de Sistemas\Aula 01\Quadrado\obj\Debug\net6.0-windows\ref\Quadrado.dll
